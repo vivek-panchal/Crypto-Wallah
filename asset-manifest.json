@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Crypto-Wallah/static/css/main.1a9a7a29.css",
+    "main.js": "/Crypto-Wallah/static/js/main.58b154bc.js",
+    "index.html": "/Crypto-Wallah/index.html",
+    "main.1a9a7a29.css.map": "/Crypto-Wallah/static/css/main.1a9a7a29.css.map",
+    "main.58b154bc.js.map": "/Crypto-Wallah/static/js/main.58b154bc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1a9a7a29.css",
+    "static/js/main.58b154bc.js"
+  ]
+}
